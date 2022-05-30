@@ -16,6 +16,11 @@ public class Address {
 		
 		
 	}
+	
+	public void newMethod() {
+		
+		
+	}
 	public String getStreeNo() {
 		return streeNo;
 	}
