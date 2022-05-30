@@ -11,6 +11,11 @@ public class Address {
 	public void setPinCode(long pinCode) {
 		this.pinCode = pinCode;
 	}
+	
+	public void display() {
+		
+		
+	}
 	public String getStreeNo() {
 		return streeNo;
 	}
